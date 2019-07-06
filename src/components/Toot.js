@@ -35,7 +35,7 @@ class Toot extends React.Component {
                         />
                     </div>
                     <MobileView >
-                        <button class="fluid ui button" onClick={this.buttonPressSubmit}>Submit</button>
+                        <button class="fluid ui button" onClick={this.buttonPressSubmit}>Toot!</button>
                     </MobileView>
                 </form>
             </div>
