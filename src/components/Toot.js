@@ -1,4 +1,5 @@
 import React from 'react';
+import {MobileView} from 'react-device-detect';
 
 class Toot extends React.Component {
     state = {text: ''};
@@ -15,6 +16,11 @@ class Toot extends React.Component {
         }
     }
 
+    buttonPressSubmit = event => {
+        event.preventDefault();
+        this.onFormSubmit();
+    }
+
     render() {
         console.log(this.state.text);
         return(
@@ -28,6 +34,9 @@ class Toot extends React.Component {
                             onKeyDown={this.keyDownSubmit}
                         />
                     </div>
+                    <MobileView >
+                        <button class="fluid ui button" onClick={this.buttonPressSubmit}>Submit</button>
+                    </MobileView>
                 </form>
             </div>
         );
