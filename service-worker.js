@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mastodon-tweeter/precache-manifest.e49434649fe9cb33a5e5e3d3889dab29.js"
+  "/mastodon-tweeter/precache-manifest.008db16a2cdf4e8073aeb0591fb764b8.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22d81bcd0a7d452e99976087862e8e0f",
+    "revision": "781c0231ab0d21399fb424f1fa3dd568",
     "url": "/mastodon-tweeter/index.html"
   },
   {
-    "revision": "0e461563d5c3ebba07ca",
+    "revision": "55d1bbc890eddc689e6a",
     "url": "/mastodon-tweeter/static/css/main.0c9f06a1.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mastodon-tweeter/static/js/2.a530017a.chunk.js"
   },
   {
-    "revision": "0e461563d5c3ebba07ca",
-    "url": "/mastodon-tweeter/static/js/main.9eba9722.chunk.js"
+    "revision": "55d1bbc890eddc689e6a",
+    "url": "/mastodon-tweeter/static/js/main.fa1a2512.chunk.js"
   },
   {
     "revision": "0bd017d2842b23000475",

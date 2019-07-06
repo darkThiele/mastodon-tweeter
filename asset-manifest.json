@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mastodon-tweeter/static/css/main.0c9f06a1.chunk.css",
-    "main.js": "/mastodon-tweeter/static/js/main.9eba9722.chunk.js",
-    "main.js.map": "/mastodon-tweeter/static/js/main.9eba9722.chunk.js.map",
+    "main.js": "/mastodon-tweeter/static/js/main.fa1a2512.chunk.js",
+    "main.js.map": "/mastodon-tweeter/static/js/main.fa1a2512.chunk.js.map",
     "runtime~main.js": "/mastodon-tweeter/static/js/runtime~main.79678d17.js",
     "runtime~main.js.map": "/mastodon-tweeter/static/js/runtime~main.79678d17.js.map",
     "static/js/2.a530017a.chunk.js": "/mastodon-tweeter/static/js/2.a530017a.chunk.js",
     "static/js/2.a530017a.chunk.js.map": "/mastodon-tweeter/static/js/2.a530017a.chunk.js.map",
     "index.html": "/mastodon-tweeter/index.html",
-    "precache-manifest.e49434649fe9cb33a5e5e3d3889dab29.js": "/mastodon-tweeter/precache-manifest.e49434649fe9cb33a5e5e3d3889dab29.js",
+    "precache-manifest.008db16a2cdf4e8073aeb0591fb764b8.js": "/mastodon-tweeter/precache-manifest.008db16a2cdf4e8073aeb0591fb764b8.js",
     "service-worker.js": "/mastodon-tweeter/service-worker.js",
     "static/css/main.0c9f06a1.chunk.css.map": "/mastodon-tweeter/static/css/main.0c9f06a1.chunk.css.map"
   }
