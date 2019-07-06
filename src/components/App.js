@@ -26,7 +26,7 @@ class App extends React.Component {
     }
 
     componentDidUpdate() {
-        const REDIRECTURI = 'http://localhost:3000';
+        const REDIRECTURI = 'https://darkthiele.github.io/mastodon-tweeter/';
         const BASEURL = `https://${this.state.instance}`
 
         if (this.state.instance && this.state.client && this.state.authorize_code && !this.state.access_token) {
@@ -63,7 +63,7 @@ class App extends React.Component {
         // createOAuthApp
         const CLIENTNAME = 'mastodon-Tweeter';
         const SCOPES = 'read write follow';
-        const REDIRECTURI = 'http://localhost:3000';
+        const REDIRECTURI = 'https://darkthiele.github.io/mastodon-tweeter/';
         const BASEURL = `https://${instance}`
 
         const response = await axios.post(`${BASEURL}/api/v1/apps`, {
