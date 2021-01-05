@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://darkThiele.github.io/mastodon-tweeter",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "query-string": "^6.8.1",
     "react": "^16.8.6",
     "react-device-detect": "^1.6.2",
